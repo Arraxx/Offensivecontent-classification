@@ -1,1 +1,1 @@
-# Offensivecontent-detection
+# Offensive content classification
